@@ -725,5 +725,5 @@ def contract_exporter():
 
 if __name__ == '__main__':
     # companies_exporter()
-    user_exporter()
-    # contract_exporter()
+    # user_exporter()
+    contract_exporter()
