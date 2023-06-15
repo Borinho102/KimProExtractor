@@ -1,0 +1,593 @@
+"pkey","creationTime","lastChangeTime","undeletable","name","cGroup","street","zip","city","anschreiben_DE","kontoNr","blz","bankName","iban","anschreibenVorlageBetreff","anschreibenVorlageText","country","vat","anschreibenVorlageBetreff_rel","anschreibenVorlageText_rel","anschreiben_FR","anschreiben_EN","anschreiben_CH","anschreiben_NL","anschreiben_BE","anschreiben_IT","konditionsUndFristenliste"
+"1","1266409739","1585234417","0","Esprit Retail B.V. & Co. KG","1","Esprit Allee","40882","Ratingen","128320","234001","300 308 80","Trinkaus & Burkhardt  in Düsseldorf",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+",,,"16","18","74352","89786","113770","74354","0","74353","-1"
+"2","1270646957","1585234431","0","Esprit Wholesale GmbH","1","Esprit Allee","40882","Ratingen","128321","1305018","300 308 80","Trinkaus & Burkhardt  in Düsseldorf",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","18","74847","89801","74845","57990","0","57989","-1"
+"3","1280318973","1585235501","0","Esprit Europe GmbH","1","Esprit Allee","40882","Ratingen","128324","1405004","300 308 80","Trinkaus & Burkhardt  in Düsseldorf",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"16","18","74842","89797","112582","74841","0","74839","-1"
+"4","1296478730","1631085110","0","Gries Deco Company GmbH","3","Boschstr. 7","63843","Niedernberg","141662","104050000","79540049","Commerzbank Aschaffenburg","DE89795400490104050000","%LADEN_NAME% in %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","15","136176","141663","141661","115251","0","115250","-1"
+"5","1297172724","1397030304","0","TOM TAILOR Retail GmbH","5","Garstedterweg 14","22453","Hamburg","20360","0966694100","20080000","Commerzbank AG",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"6","1297172956","1429189327","0","Mayersche Buchhandlung KG","4","Matthiashofstraße 28-30","52064","Aachen","42250","810","390 500 00","Sparkasse Aachen",,"%LADEN_NAME% in %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+",,,"16","15","42252","42251","0","0","0","0","0"
+"7","1297776906","1431938829","0","Musterkunde GmbH","6","Tübinger Str. 43","70178","Stuttgart","42169",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+","Deutschland",,"16","15","42171","42170","0","0","0","0","0"
+"8","1301646529","1397030140","0","Mexx Modehandels GmbH","7","Mühlenstraße 57","41352","Korschenbroich","19122","01921 808 00","310 400 15","Commerzbank Mönchengladbach AG",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+",,,"0","0","0","0","0","0","0","0","0"
+"9","1305623221","1397029998","0","Hilfiger Stores GmbH","8","Speditionstraße 7","40221","Düsseldorf","27497",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"10","1305637889","1397030164","0","PVH Deutschland GmbH","8","Speditionstr. 7","40221 ","Düsseldorf","19141",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"11","1305797151","1397030134","0","Mexx Holding GmbH","7","Mühlenstraße 57","41352","Korschenbroich","19125","01921 74 100","310 400 15","Commerzbank Mönchengladbach AG",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"12","1306305433","1418747507","0","Mayersche Interbook GmbH ","4","Matthiashofstraße 28-30","52064","Aachen","38042","980680","585 501 30","Sparkasse Trier",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","15","0","0","0","0","0","0","0"
+"13","1308205317","1616684437","0","Depot Handels GmbH","3","Triester Str. 10","A-2351","Wiener-Neudorf","138052","680397","32000","Raiffeisenlandesbank Niederösterreich Wien","AT2432 0000 0000 680 397","%LADEN_NAME% in %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+",,"RLNWATWW","16","15","136170","136169","136167","136172","0","136171","-1"
+"14","1308207247","1397030117","0","Mexx Austria GmbH","7","Carl-Zuckmayer-Str. 37","A-5028","Salzburg","19123","00401153002","12000","UniCredit Bank Austria AG",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"15","1308208399","1397029975","0","Hilfiger Stores GesmbH","8","Wickenburgallee 2","A-5101","Bergheim / Salzburg","27190",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+","Austria",,"0","0","0","0","0","0","0","0","0"
+"60","1440593872","1441892553","0","Muster GmbH","28","Musterstr. 20","20095","Hamburg","47680",,,,,,,,,"4","15","47682","47681","0","0","0","0","0"
+"61","1441196715","1442926753","0","Faboulas GmbH","29","Marienplatz 1","08056","Zwickau","48020",,,,,,,"Deutschland",,"16","15","47442","47441","0","0","0","0","0"
+"62","1441196996","1442926768","0","Five Crown GmbH","30","Marienplatz 1","08056","Zwickau","48021",,,,,,,"Deutschland",,"16","15","47445","47444","0","0","0","0","0"
+"17","1310985513","1539250596","0","IWAN BUDNIKOWSKY GmbH & Co. KG","9","Wandsbeker Königstraße 62","22041","Hamburg","103933","1261119000","20050550","Hamburger Sparkasse","DE19 200505501261119000","%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+die Überprüfung der Nebenkostenabrechnungen aller unserer Budni-Filialen können wir aus Kapazitätsgründen leider nicht in Eigenregie vornehmen, daher werden wir hierbei von der Firma Seybold unterstützt.
+
+Die Überprüfung Ihrer Abrechnung hat Fragen ergeben, die wir gemeinsam mit Ihnen klären möchten.
+
+Bitte lassen Sie uns zu den beigefügten Punkten bis zum %DATUM_ABSCHLUSS% Ihre Stellungnahme zukommen.
+
+Für inhaltliche Fragen zur Prüfung wenden Sie sich bitte an %KM_ANREDE% %KM_NACHNAME% von der Firma Seybold (%KM_EMAIL%, Tel. %KM_TEL%).
+
+Ansonsten stehen wir Ihnen für weitere Rückfragen jederzeit gerne zur Verfügung.",,"HASPDEHHXXX","16","17","78270","103935","103934","62154","0","62153","-1"
+"18","1323014319","1397030206","0","s.Oliver Bernd Freier GmbH & Co. KG (Retail und Fashion)","2","s.Oliver-Straße 1","97228 ","Rottendorf","22365","667 129 2","790 200 76","HypoVereinsbank Würzburg (UniCredit)",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"19","1323014403","1473941922","0","comma, GmbH & Co. KG","2","Ostring","97228","Rottendorf","48610","16 500 100","790 700 16","Deutsche Bank",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+","Deutschland",,"16","15","48612","48611","-1","-1","0","-1","0"
+"20","1325159968","1461066977","0","Tally Weijl Retail Germany GmbH","10","Schopfheimer Straße 27","79541","Lörrach","34497",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"16","15","51710","51709","51708","55545","0","0","0"
+"21","1334739894","1397030030","0","Hilfiger Stores sp.z o.o.","8","Emilii Plater 53","PL-00-113","Warszawa","24630",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.
+",,,"0","0","0","0","0","0","0","0","0"
+"22","1336737398","1397029939","0","Footwear Europe GmbH Tommy Hilfiger","8","Speditionstr. 7","40221","Düsseldorf","19134",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"24","1338795165","1429100334","0","Hilfiger Stores GmbH Schweiz","8","Seestr. 16","CH-8800","Thalwil","41134",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Schweiz",,"16","15","42182","42181","0","0","0","0","0"
+"25","1340284497","1429100377","0","Depot CH AG","3","Marktgasse 27","8401","Winterthur","20586",,,,,"%LADEN_NAME% in %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","Sehr geehrte(r) %AP_ANREDE% %AP_NACHNAME%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","15","42184","42183","0","0","0","0","0"
+"26","1341410723","1397030212","0","s.Oliver Bernd Freier GmbH & Co. KG (Showroom)","2","s.Oliver-Straße 1","97228 ","Rottendorf","19170","663 477 0","790 200 76","HypoVereinsbank Würzburg (UniCredit)",,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"27","1342682880","1599137021","0","Freier Group Austria GmbH","2","Moosfeldstr. 1","A-5101","Bergheim / Salzburg","27232",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","15","45716","45715","132163","-1","0","132164","-1"
+"28","1349774317","1397030292","0","Tom Tailor GmbH","5","Garstedterweg 14","22453","Hamburg","20362",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"0","0","0","0","0","0","0","0","0"
+"29","1354196530","1418747472","0","Mayersche Buchhandlung GmbH & Co. KG","4","Matthiashofstraße 28-30","52064","Aachen","38040",,,,,"%LADEN_NAME% in %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","15","0","0","0","0","0","0","0"
+"30","1371713365","1405060298","0","CK Stores Germany GmbH","14","Speditionstr. 7","40221","Düsseldorf","31570",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"31","1371815940","1473240471","0","Esprit Switzerland Retail AG","13","Thurgauerstr. 113","8152","Glattpark (Opfikon)","24972",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.",,,"16","18","42188","42187","-1","-1","0","-1","0"
+"32","1377152077","1429100436","0","CK Stores Switzerland GmbH","14","Seestr. 16","CH-8800","Thalwil","27221",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Schweiz",,"16","15","42186","42185","0","0","0","0","0"
+"33","1380614489","1397030036","0","Ideas4Retail GmbH","15","Neunzigstraße 1","40625","Düsseldorf","27770",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"34","1384421015","1405060308","0","CK Stores Austria GmbH","14","Wickenburgallee 2","A-5101","Bergheim / Salzburg","28219",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Österreich",,"0","0","0","0","0","0","0","0","0"
+"35","1384421179","1405060288","0","CK Stores Poland SP.z o.o","14","Ul. Emilii Plater 53, 11th Floor","PL-00-113","Warsaw","28223",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Poland",,"0","0","0","0","0","0","0","0","0"
+"36","1385634636","1438699146","0","H & D Gastronomie GmbH","27","Auf der Höhe 99","47059","Duisburg","46306",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"16","15","46305","46304","0","0","0","0","0"
+"37","1396525555","1404996545","0","S + K Textil-Service GmbH","17","Untere Dorfstr. 141","57074","Siegen","34114",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"38","1398178019","1404466032","0","Mode von Feucht GmbH","18","Schergentorgasse 1","A-6060","Hall in Tirol","33984",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Österreich",,"0","0","0","0","0","0","0","0","0"
+"39","1398419998","1405060008","0","Tally Weijl Logistics Germany GmbH","10","Schopfheimer Str. 27","79541","Lörrach","34140",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt:
+Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"40","1400220264","1405059936","0","S + K Retail GmbH","17","Untere Dorfstr. 141","57074","Siegen","34113",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"41","1400220309","1404996578","0","Schulze + Kraatz GmbH","17","Untere Dorfstr. 141","57074","Siegen ","34115",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Deutschland",,"0","0","0","0","0","0","0","0","0"
+"42","1403780944","1461066995","0","Tally Weijl Trading AG","10","Viaduktstr. 42","CH-4051 ","Basel","45821",,,,,"%LADEN_NAME% in %LADEN_PLZ% %LADEN_STADT%, %LADEN_STRASSE% Nebenkostenabrechnung %JAHR%","%AP_ANREDEKOMPLETT%,
+
+für die Prüfung von Nebenkostenabrechnungen nutzen wir das Know-how der Seybold GmbH und deren Fachspezialisten.
+
+Aus der Prüfung hat sich ergeben, dass zu viele Kosten auf uns umgelegt wurden. Bitte lassen Sie uns die in der Anlage genannten Gutschriften bzw. Nachweise bis zum %DATUM_ABSCHLUSS% zukommen.
+
+Bei Rückfragen wenden Sie sich bitte an unseren Dienstleister die Firma Seybold. Den Ansprechpartner %KM_ANREDE% %KM_NACHNAME% erreichen Sie wie folgt: Tel.: %KM_TEL%, E-Mail: %KM_EMAIL%.
+
+Wir hoffen auf eine weiterhin partnerschaftliche Zusammenarbeit.","Schweiz",,"16","15","45823","45822","51711","55546","0","0","0"
+"43","1418028833","1421408184","0","LStores GmbH","19","Thomas-Mann-Platz 2a","09130","Chemnitz","38755","1","1","1","1",,,"Deutschland","1","16","15","0","0","0","0","0","0","0"
+"44","1418029126","1423754101","0","RStores GmbH c/o G-STAR RAW","19","Thomas-Mann-Platz 2a","09130","Chemnitz","39569","1","1","1","1",,,"Deutschland","1","16","15","0","0","0","0","0","0","0"
+"48","1422518197","1548064965","0","GINA LAURA GmbH & Co. KG","20","Am Waldrand 19","26180","Rastede","111858","1","1","1","1",,,"Deutschland","1","16","15","111860","111859","111857","70797","0","111861","-1"
+"45","1418030930","1449242174","0","Liebeskind GmbH","2","Ostring","97228","Rottendorf","50506","1","1","1","1",,,"Deutschland","1","16","15","50508","50507","50505","0","0","0","0"
+"46","1418215699","1619598270","0","Popken Fashion GmbH","20","Am Waldrand 19","26180","Rastede","138601","1","1","1","1",,,"Deutschland","1","16","15","138604","138603","138602","138606","0","138605","-1"
+"47","1418990761","1610451620","0","s.Oliver Retail Nord-West GmbH & Co. KG","2","s.Oliver-Str. 1","97228","Rottendorf","42888",,,,,,,"Deutschland",,"16","15","-1","-1","-1","-1","0","-1","-1"
+"49","1422519034","1422519034","0","Ulla Popken GmbH  & Co. KG","20","Spittelwiese 4","A-4020","Linz","39122","1","1","1","1",,,"Österreich","1","16","15","0","0","0","0","0","0","0"
+"50","1422614443","1422614461","0","Karstadt Premium GmbH","22","Theodor-Althoff-Str. 2","45133","Essen","39182",,,,,,,,,"16","15","0","0","0","0","0","0","0"
+"51","1426849923","1548064840","0","Popken + Co.","20","Mythen-Centerstr. 18","CH-6438","Ibach","111853",,,,,,,"Schweiz",,"16","15","111855","111854","111851","-1","0","111856","-1"
+"52","1430118178","1548065106","0","Gina Laura Österreich GmbH","20","Olympiaplatz 2 Stadioncenter","A-1020","Wien","111863",,,,,,,"Österreich",,"16","15","111865","111864","111862","-1","0","-1","-1"
+"53","1430229763","1430230126","0","PVH Österreich GmbH","8","Wickenburgallee 2","A-5101","Bergheim/Salzburg","42639",,,,,,,"Österreich",,"4","1","42641","42640","0","0","0","0","0"
+"54","1432813234","1516975037","0","Levi Strauss Germany GmbH","23","Ludwigstraße 180A","63067","Offenbach / Main","91570",,,,,,,"Deutschland",,"16","15","91441","91440","91438","91443","0","91442","-1"
+"55","1433855863","1444643080","0","p. t. concept stores GmbH","24","Hermannstr. 11","01877","Bischofswerda","48616",,,,,,,"Deutschland",,"16","15","48618","48617","0","0","0","0","0"
+"56","1436955420","1436967994","0","GR Buckenmaier GmbH & Co. KG","25","Nürnberger Str. 5","91052","Erlangen","45550",,,,,,,"Deutschland",,"4","15","45530","45529","0","0","0","0","0"
+"57","1438256648","1495091661","0","Sakir Akbas","26","Platz der Menschenrechte 8","81829","München","46102",,,,,,,"Deutschland",,"16","15","46104","46103","-1","-1","0","-1","-1"
+"58","1438335919","1439797312","0","Esprit Europe Services GmbH","1","Esprit Allee","40882","Ratingen","46687",,,"Deutsche Bank Düsseldorf","DE74300700100112008800",,,"Deutschland","DEUTDEDDXXX","16","18","46689","46688","0","0","0","0","0"
+"59","1438698998","1438699020","0","Popken International GmbH & Co. GCV","20","Zilverpand 25","B-8000","Brügge","46301",,,,,,,"Belgien",,"16","15","46303","46302","0","0","0","0","0"
+"63","1443534837","1469005739","0","Urban Denim Textil GmbH","31","Maria Theresien Str. 31","A-6020","Innsbruck","48819",,,,,,,"Österreich",,"16","15","48821","48820","59361","59363","0","59362","0"
+"64","1445248707","1585131013","0","idee. Creativmarkt GmbH & Co. KG","32","Kisau 8","33098","Paderborn","128240","9007 9073 00","4726 0121","Volksbank Paderborn-Höxter-Detmold eG","DE14 4726 0121 9007 9073 00",,,"Deutschland","DGPBDE3MXXX","16","15","128242","128241","128239","124575","0","124574","-1"
+"65","1445427659","1465460368","0","Swarovski (Deutschland) GmbH","33","Hüttenstr. 27","87600","Kaufbeuren","57320",,"HYVEDEMM427","Hypo Vereinsbank Kaufbeuren","DE90 7342 0071 0002 1202 75",,,"Deutschland",,"16","15","57314","57321","57319","57316","0","57315","0"
+"66","1445501934","1445501959","0","Kai Sündermann","34","Auf der Hühnerbalz 34","57234","Wilnsdorf","48933",,,,,,,"Deutschland",,"16","15","48935","48934","0","0","0","0","0"
+"67","1450086894","1450086917","0","SAM GmbH & Co. KG","35","Rasthof Hardtwald-Ost","69207","Sandhausen","50815",,,,,,,"Deutschalnd",,"16","15","50817","50816","50814","0","0","0","0"
+"68","1450431157","1450431211","0","VWA Store GmbH","36","Im Haselweg 13","16348","Wandlitz","51010",,,,,,,"Deutschland",,"16","15","51012","51011","51009","0","0","0","0"
+"69","1450431271","1620045453","0","Retail Support GmbH","36","Handwerkerstr. 19","15366","Hoppegarten","138779",,"COBADEFFXXX","Commerzbank AG","DE92 1004 0000 0593 8923 00",,,"Deutschland",,"16","15","51016","138780","138778","98856","0","98855","-1"
+"70","1451905022","1451906866","0","styles at fashion GmbH","37","Langestr. 46/48","17489","Greifswald","51583","DE07 1505 0500 0230 0079 02","NOLADE21GRW","Sparkasse Vorpommern","DE07 1505 0500 0230 0079 02",,,"Deutschland","DE232267451","16","15","51585","51584","51582","0","0","0","0"
+"71","1451905268","1451906738","0","E&N Collection GmbH","37","Lange Str. 32","17489","Greifswald","51588","DE47 1505 0500 0232 0013 08","NOLADE21GRW","Sparkasse Vorpommern","DE47 1505 0500 0232 0013 08",,,"Deutschland","DE170504366","16","15","51590","51589","51587","0","0","0","0"
+"72","1452592041","1476106017","0","SX 24 GmbH","38","Charlottenstr. 32","13156","Berlin","63423",,,,,,,"Deutschland",,"16","15","63426","63424","63425","63428","0","63427","0"
+"73","1452592124","1584707836","0","SX 29 GmbH","38","Charlottenstr. 32","13156","Berlin","128116",,,,,,,"Deutschland",,"16","15","63434","128117","128115","63433","0","63432","-1"
+"74","1452592184","1452592214","0","SX 32 GmbH","38","Charlottenstr. 32","13156","Berlin","51854",,,,,,,"Deutschland",,"16","15","51856","51855","51853","0","0","0","0"
+"75","1454401630","1455035156","0","Marc-Uwe Fritz e.K.","39","Liegnitzerstr. 29","57072","Siegen","52964","1","1","1","1",,,"Deutschland","1","16","15","-1","-1","52627","0","0","0","0"
+"76","1454674457","1455712678","0","Holger Ahlers e.K.","40","Weihermatten 37","79713","Bad Säckingen","53287","1","1","1","1",,,"Deutschland","1","16","15","53286","53289","53288","0","0","0","0"
+"77","1455631802","1565876173","0","LPP Deutschland GmbH","41","Holländischer Brook 1","20457","Hamburg","120815",,,,,,,"Deutschland",,"16","15","53728","120816","120814","61930","0","61929","-1"
+"78","1455701903","1455701932","0","TC Buckenmaier GmbH & Co. KG","25","Residenzstr. 3 - 6","91522","Ansbach","53276",,,,,,,"Deutschland",,"16","15","53278","53277","53275","0","0","0","0"
+"79","1457444139","1541405560","0","FX Studios Textilhandelsgesellschaft mbH","43","Saarbrücker Str. 1","06188","Landsberg OT Peißen","66674","0593 822 000","COBADEFFXXX","Commerzbank Berlin","DE96 1004 0000 0593 8220 00",,,"Deutschland",,"16","15","66676","66675","66673","-1","0","105521","-1"
+"80","1457444306","1481186967","0","Sandra Berger-Petsch e. Kfr.","43","Saarbrücker Str. 1","06188","Landsberg OT Peißen","66670","106 461 700","COBADEFFXXX","Commerzbank Leipzig","DE12 8604 0000 0106 4617 00",,,"Deutschland",,"16","15","54000","66672","66671","-1","0","-1","0"
+"81","1463579892","1488457486","0","E.Breuninger GmbH & Co.","44","Marktstr. 1-3","70173","Stuttgart","72330",,,,,,,"Deutschland",,"16","15","56617","59704","72329","56619","0","56618","0"
+"82","1467020057","1467020097","0","MetropolART Kunstgalerien GmbH","45","Bechlenberg 37B","42799","Leichlingen","58177",,,,,,,"Deutschland",,"16","15","58179","58178","58176","58181","0","58180","0"
+"83","1467022578","1467022691","0","Hecht & Kauer Retail GmbH","46","Leipziger Str. 12","10117","Berlin","58193",,,,,,,"Deutschland",,"16","15","58195","58194","58192","58197","0","58196","0"
+"84","1467024568","1531925938","0","Das creative Hobby GmbH","47","Schössergasse 1","01796","Pirma","58206",,,,,,,"Deutschland",,"16","15","58208","58207","58205","58210","0","58209","-1"
+"85","1467808722","1581932764","0","Henri Gernhardt (Backlash)","48","Landgrabenpark1","16303","Schwedt/Oder","126793",,,,,,,"Deutschland",,"16","15","58685","58752","58682","58687","0","58686","-1"
+"86","1467813437","1492693291","0","M.R.C.-LPB GmbH","49","Erlenweg 14","19336","Bad Wilsnack","75564",,,,,,,"Deutschland",,"16","15","58704","58703","58701","58706","0","58705","0"
+"87","1467814456","1467814485","0","Vegatex GmbH","50","Rathenower Str. 26","10559","Berlin","58715",,,,,,,"Deutschalnd",,"16","15","58717","58716","58714","58719","0","58718","0"
+"88","1467817392","1476103688","0","K & S Jeans & Sportswear GmbH","38","Elsa-Brändström-Str. 15","13189","Berlin","63419",,,,,,,"Deutschland",,"16","15","58735","63421","63420","58737","0","58736","0"
+"89","1469005506","1469005622","0","Urban Fashion Textilhandels GmbH","31","Neubaugasse 12-14","A-1070","Wien","59356",,,,,,,"Österreich",,"16","15","59358","59357","59355","59360","0","59359","0"
+"90","1469005823","1469005893","0","Urban Style GmbH Donauzentrum","31","Wagramerstr. 81, TOP 137b","A-1220","Wien","59365",,,,,,,"Österreich",,"16","15","59367","59366","59364","59369","0","59368","0"
+"91","1469005959","1469006004","0","Urban Style GmbH SCS","31","Allee 123, TOP 142A","A-2334","Vösendorf","59371",,,,,,,"Österreich",,"16","15","59373","59372","59370","59375","0","59374","0"
+"92","1469544392","1546850909","0","Ulla Popken C.V.","20","Am Waldrand 19","26180","Rastede","59568",,,,,,,"Deutschland",,"16","15","59570","59569","59567","59572","0","59571","-1"
+"93","1471869057","1471877785","0","Freier Group Logistics GmbH & Co. KG","2","Schießhausstr. 11","97228","Rottendorf","60901",,,,,,,"Deutschland",,"16","15","-1","-1","60899","-1","0","-1","0"
+"94","1472541781","1474008725","0","SX31 GmbH","51","Blumenweg 4","59457","Werl","62055",,,,,,,"Deutschland",,"16","15","62058","62057","62056","62060","0","62059","0"
+"95","1475822667","1475822699","0","LONGCHAMP GmbH","52","Werderstr. 6","76530","Baden-Baden","63176",,,,,,,"Deutschland",,"16","15","63178","63177","63175","63180","0","63179","0"
+"96","1476882051","1546851106","0","Klingler Finanzkanzlei","53","Im Buchhorn 2","74545","Michelfeld","64051",,,,,,,"Deutschland",,"16","15","110105","110104","64050","110107","0","110106","-1"
+"97","1478165675","1481877868","0","Swarovski (Schweiz) AG","54","Alte Landstr. 411","CH-8708 ","Männedorf","67190","1","1","1","1",,,"Schweiz","1","16","23","67193","67191","67189","67195","0","67194","0"
+"98","1480327648","1620045255","0","East & West Textil GmbH","55","Handwerkerstraße 19","15366","Hoppegarten","138771",,"PBNKDEFFXXX","Postbank","DE79 1001 0010 0004 1031 03",,,"Deutschland",,"16","15","65995","138772","138770","65997","0","65996","-1"
+"99","1481729004","1590476965","0","C&A Mode AG","56","Oberneuhofstr. 6","CH-6431","Baar","129683",,,,,,,"Schweiz",,"16","25","129685","129684","129682","129585","0","129584","-1"
+"100","1482399172","1482399205","0","Maiworm Young Fashion GmbH & Co. KG","57","Bahnhofstr. 1","57462","Olpe","67644",,,,,,,"Deutschland",,"16","15","67646","67645","67643","67648","0","67647","0"
+"101","1483605063","1484917856","0","Trigema Inh. W. Grupp e.K.","58","Josef-Mayer-Str. 31-35","72393","Burladingen","69554",,,,,,,"Deutschland",,"16","24","68493","68492","68490","68496","0","68494","0"
+"102","1489572855","1510740242","0","dm-drogerie markt GmbH + Co. KG","59","Carl-Metz-Str. 1","76185","Karlsruhe","86605",,,,,,,"Deutschland",,"16","27","86613","86612","86611","73159","0","73158","-1"
+"103","1490175306","1594889352","0","Reno Schuh GmbH","60","Industriegebiet West","66987","Thaleischweiler-Fröschen","127003",,,,,,,"Deutschland",,"16","15","73584","73583","127004","73586","0","73585","-1"
+"104","1491465083","1491465119","0","RMS GmbH & Co. KG","61","Wallstr, 30","40213","Düsseldorf","74561",,,,,,,"Deutschland",,"16","15","74563","74562","74560","74565","0","74564","0"
+"105","1495526519","1496747216","0","Senft GmbH & Co. KG","62","Breite Gasse 69","90402","Nürnberg","78221","DE91760606180001988379","GENODEF1N02","Volksbank Raiffeisenbank","DE91760606180001988379",,,"Deutschland","DE249824547","16","15","78224","78222","78223","-1","0","-1","-1"
+"106","1496062125","1496746322","0","Tayler Bekleidungshandelsgesellschaft mbH","63","Könneritzstr. 43","04229","Leipzig","78215","DE91 8608 0000 0720 5983 00","DRESDEFF860","Commerzbank","DE91 8608 0000 0720 5983 00",,,"Deutschland","DE189258201","16","15","78217","78214","78216","78219","0","78218","-1"
+"107","1496134237","1496134254","0","Jens Petersen GmbH / Eggemann concept GmbH","64","Söhren 41","24232","Schönkirchen","77738",,,,,,,"Deutschland",,"16","15","-1","-1","77737","-1","0","-1","-1"
+"108","1498029295","1498029788","0","Thalia Bücher GmbH","65","Batheyer Str. 115-117","58099","Hagen","79021",,,,,,,"Deutschland",,"4","1","79023","79022","79020","79025","0","79024","-1"
+"109","1500291727","1500291765","0","Daniels & Co. GmbH","66","Simon-Arzt-Str. 1","53332","Bornheim-Hersel","80489",,,,,,,"Deutschland",,"16","15","80491","80490","80488","-1","0","-1","-1"
+"110","1500975862","1503560314","0","Spiess Co. Pf GmbH & Co. KG","67","Bahnhofstr. 3","75031","Eppingen","82525",,,,,,,"Deutschland",,"16","15","82527","82526","82523","-1","0","-1","-1"
+"111","1500975910","1503560300","0","Spiess Kehl GmbH & Co. KG","67","Bahnhofstr. 3","75031","Eppingen","82529",,,,,,,"Deutschland",,"16","15","-1","82530","82528","-1","0","-1","-1"
+"112","1500975938","1503560326","0","Spiess Bruchsal GmbH & Co. KG","67","Bahnhofstr. 3","75031","Eppingen","82521",,,,,,,"Deutschland",,"16","15","-1","82522","82520","-1","0","-1","-1"
+"113","1501068731","1581935529","0","Triumph International GmbH","68","Marsstr. 40","80335","München","81058",,,,,,,"Deutschland",,"16","15","81060","81059","81057","81062","0","81061","-1"
+"114","1502099524","1540980660","0","Tally Weijl Austria GmbH","10","Grazbachgasse 57","A-8010","Graz","105218",,,,,,,"Österreich",,"16","15","81622","105219","105217","105220","0","81623","-1"
+"115","1502356488","1502356743","0","Stoll von Gáti","69","Haller Str. 187","74564","Crailsheim","81830",,,,,,,"Deutschland",,"4","1","-1","-1","81829","-1","0","-1","-1"
+"116","1503557701","1503558010","0","s.Oliver Store Pforzheim","67","Bahnhofstr. 3 ","75031","Eppingen","82518",,,,,,,"Deutschland",,"16","15","-1","82519","82517","-1","0","-1","-1"
+"117","1508851138","1533198503","0","Fussl Modestraße Mayr GmbH","70","Fusslplatz 26-32","A-4974","Ort im Innkreis","100562",,,,,,,"Österreich",,"16","15","-1","100564","100563","-1","0","-1","-1"
+"118","1510144210","1570528840","0","Jeans Fritz Handelsgesellschaft für Mode mbH","71","Tengener Str. 143","32609","Hüllhorst","89243",,,,,,,"Deutschland",,"16","28","85890","89244","89242","85892","0","85891","-1"
+"119","1512121886","1512121952","0","Eiscafé Florence im Elisepark","72","Anklamer Landstr. 1","17491","Greifswald","88595",,,,,,,"Deutschland",,"16","15","88598","88596","88594","88600","0","88599","-1"
+"120","1513687912","1513687957","0","Dr. Rehfeld Fashion AG","73","Modering 5","22457","Hamburg","89525",,,,,,,"Deutschland",,"16","15","-1","89526","89524","-1","0","-1","-1"
+"121","1513693358","1582034424","0","Broadway NYC Fashion GmbH","74","Modering 5","22457","Hamburg","126906",,,,,,,"Deutschland",,"16","15","110305","89549","126905","-1","0","-1","-1"
+"122","1516178184","1516178215","0","Muddastadt GmbH","75","Ringbahnstr. 38-40","12099","Berlin","90962",,,,,,,"Deutschland",,"16","15","-1","90963","90961","-1","0","-1","-1"
+"123","1516635509","1516635525","0","Regema GmbH","51","Blumenweg 4","59457","Werl","91277",,,,,,,,,"16","15","-1","-1","91276","-1","0","-1","-1"
+"124","1516635610","1516635625","0","DauNeu GmbH","51","Karl-Marx-Straße 36","01612","Nünchritz","91279",,,,,,,"Deutschland",,"16","15","-1","-1","91278","-1","0","-1","-1"
+"125","1516635769","1516635776","0","Textil Retail GmbH","51","Karl-Marx-Straße 36","01612","Nünchritz","91281",,,,,,,"Deutschland",,"16","15","-1","-1","91280","-1","0","-1","-1"
+"126","1517919349","1517919399","0","M. Mode Vertrieb GmbH & Co. KG","57","Bahnhofstr. 1","57462","Olpe","92152",,,,,,,"Deutschland",,"16","15","92154","92153","92151","92156","0","92155","-1"
+"127","1517919443","1517919456","0","M. System Verwaltungs GmbH","57","Bahnhofstr. 1","57462","Olpe","92158",,,,,,,"Deutschland",,"16","15","-1","92159","92157","-1","0","-1","-1"
+"128","1517921093","1517921120","0","Titus Zoopreme GmbH","46","Meinekestr. 2","10719","Berlin","92163",,,,,,,"Deutschland",,"16","15","-1","92164","92162","-1","0","-1","-1"
+"129","1517922351","1517922392","0","Zookini GmbH","46","Budapester Str. 46","10787","Berlin","92167",,,,,,,"Deutschland",,"16","15","-1","92168","92166","-1","0","-1","-1"
+"130","1517922451","1517922466","0","Titus Berlin GmbH","46","Karl-Liebknecht-Str. 9","10178","Berlin","92170",,,,,,,"Deutschland",,"16","15","-1","92171","92169","-1","0","-1","-1"
+"131","1518443496","1518443520","0","Union Investment Real Estate GmbH","76","Caffamacherreihe 8","20355","Hamburg","92457",,,,,,,"Deutschland",,"16","15","92459","92458","92456","-1","0","-1","-1"
+"132","1518443661","1518443723","0","Objektgesellschaft L21 Stuttgart mbH","76","Heilbronner Str. 190","70191","Stuttgart","92461",,,,,,,"Deutschland",,"16","15","92463","92462","92460","-1","0","-1","-1"
+"133","1518519022","1582033754","0","Adalbert Breiter GmbH & Co. KG","77","Dachauer Str. 14","80335","München","126891",,,,,,,"Deutschland",,"16","15","116667","92555","126890","116669","0","116668","-1"
+"134","1519113972","1519133716","0","HR Group GesmbH","60","Triester Str. 10","2334","Vösendorf","92979",,,,,,,"Deutschland",,"16","15","92982","92981","92980","92984","0","92983","-1"
+"135","1519138107","1519138119","0","Kaufhaus Rid GmbH","78","Schmiedstr. 24","82362","Weilheim","92988",,,,,,,"Deutschland",,"16","15","-1","92989","92987","-1","0","-1","-1"
+"136","1522761112","1634027829","0","C&A Mode GmbH & Co. KG","79","Wanheimer Str. 70","40468","Düsseldorf","143178",,,,,,,"Deutschland",,"16","15","143176","143179","143173","117464","0","117463","-1"
+"137","1522761205","1522761214","0","Theo Wormland GmbH & Co. KG","80","Seilwinderstr. 1 a","30159","Hannover","95052",,,,,,,"Deutschland",,"16","15","-1","95053","95051","-1","0","-1","-1"
+"138","1522761264","1533024660","0","H&M Hennes & Mauritz AG","81","Uraniastr. 31","CH-8001","Zürich","100357",,,,,,,"Schweiz",,"16","15","100361","100360","100359","95059","0","100362","-1"
+"139","1523460551","1523460567","0","Gebrüder Sapounas Gastronomiebetrieb GmbH","82","Grete-Mosheim-Str. 15","80636","München","95574",,,,,,,"Deutschland",,"16","15","-1","95575","95573","-1","0","-1","-1"
+"140","1523954593","1539764950","0","mister*lady GmbH & Co. KG","83","Dalistr. 3","AT-4600","Wels","104232",,"SWIFT-CODE: COBAATWXXXX","Commerzbank Wien","AT57 1967 5001 0015 4400",,,"Österreich",,"16","15","104234","104233","104231","104236","0","104235","-1"
+"141","1526630550","1526630576","0","Lifestyle Clubs Concepts GmbH","84","Charlottenstr. 65","10117","Berlin","97142",,,,,,,"Deutschland",,"16","15","-1","-1","97141","-1","0","-1","-1"
+"142","1526643012","1607587655","0","Osiandersche Buchhandlung GmbH","85","Waldhörnlestr. 18","72072","Tübingen","135510",,,,,,,"Deutschland",,"16","15","-1","109688","97167","-1","0","-1","-1"
+"143","1535020722","1535020820","0","Holmes Place Health Clubs GmbH","84","Charlottenstr. 65","10117","Berlin","101278",,,,,,,,,"4","1","-1","-1","101277","-1","0","-1","-1"
+"144","1536754082","1536754161","0","ETERNA Mode GmbH","86","Medienstr. 12","94036","Passau","102232",,,,,,,"Deutschalnd",,"16","15","-1","102233","102231","-1","0","-1","-1"
+"145","1537269477","1537269495","0","Elbenwald GmbH","87","Am Seegraben 9-10","03051","Cottbus","102558",,,,,,,"Deutschland",,"16","15","-1","102559","102557","-1","0","-1","-1"
+"146","1539098002","1607001670","0","Aktiv Schuh Handelsgesellschaft mbH","88","Georg-Schendel-Str. 2","12489","Berlin","126895",,,,,,,"Deutschland",,"16","15","135366","103828","126892","-1","0","135371","120093"
+"147","1539606220","1539606242","0","Kienast Schuhhandels GmbH & Co. KG","89","An der Autobahn 15","30900","Wedemark","104080",,,,,,,"Deutschalnd",,"16","15","104082","104081","104079","-1","0","-1","-1"
+"148","1539686603","1539686611","0","Haeffner Beteiligungs GmbH","90","Bahnhofstr. 3","75031","Eppingen","104157",,,,,,,"Deutschland",,"16","15","-1","104158","104156","-1","0","-1","-1"
+"149","1540295424","1540295450","0","Fashion FC Club GmbH","91","Hohe Str. 133","50667","Köln","104593",,,,,,,"Deutschland",,"16","15","104595","104594","104592","-1","0","-1","-1"
+"150","1541662565","1547651497","0","Jonny M.Sports & Freizeitanlagen GmbH","92","Brenzstr. 4","71636","Ludwigsburg","111655",,,,,,,,,"16","15","111657","111656","111654","111659","0","111658","-1"
+"151","1541662691","1547651393","0","Jonny M. Racket und Fitness GmbH","92","Brenzstr. 4","71636","Ludwigsburg","111648",,,,,,,"Deutschland",,"16","15","111651","111650","111649","111653","0","111652","-1"
+"152","1542634018","1624478849","0","FC Bayern München Merchandising AG & Co. KG","94","Säbener Str. 51-57","81547","München","118832",,,,,,,"Deutschland",,"16","15","107448","107447","118831","107450","0","107449","-1"
+"153","1543850383","1543850398","0","Elke Kruse Kölsche Geschenkartikel","95","Kalker Hauptstr. 55","51103","Köln","108515",,,,,,,"Deutschland",,"16","15","-1","108516","108514","-1","0","-1","-1"
+"154","1543915634","1543915655","0","TUI Deutschland GmbH","96","Karl-Wiechert-Allee 23","30625","Hannover","108599",,,,,,,"Deutschland",,"16","15","108601","108600","108598","-1","0","-1","-1"
+"155","1547209830","1547209879","0","Holmes Place Berlin GmbH","84","Charlottenstr. 65","10117","Berlin","110777",,,,,,,"Deutschland",,"16","15","-1","110778","110776","-1","0","-1","-1"
+"156","1547209914","1547209950","0","HP Sports Clubs GmbH","84","Charlottenstr. 65","10117","Berlin","110780",,,,,,,"Deutschland",,"16","15","-1","110781","110779","-1","0","-1","-1"
+"157","1547210043","1547210053","0","HP Königsallee 59 GmbH","84","Charlottenstr. 65","10117","Berlin","110783",,,,,,,"Deutschland",,"16","15","-1","-1","110782","-1","0","-1","-1"
+"158","1547210104","1547210113","0","Holmes Place Düsseldorf GmbH","84","Charlottenstr. 65","10117","Berlin","110785",,,,,,,"Deutschland",,"16","15","-1","-1","110784","-1","0","-1","-1"
+"159","1547210149","1547210159","0","HP Stadthaus Köln GmbH","84","Charlottenstr. 65","10117","Berlin","110787",,,,,,,"Deutschland",,"16","15","-1","-1","110786","-1","0","-1","-1"
+"160","1547651919","1620045283","0","CLINTON Großhandels GmbH","55","Handwerkerstr. 19","15366","Hoppegarten","138774",,,,,,,"Deutschland",,"16","15","111663","138775","138773","134220","0","111798","-1"
+"161","1547799240","1553154194","0","KODi Diskontläden GmbH","97","Zum Eisenhammer 52","46049","Oberhausen","111757",,,,,,,"Deutschland",,"16","15","111759","111758","111756","-1","0","-1","-1"
+"162","1548057823","1559833392","0","JD Sports Fashion Germany GmbH","98","Hohe Str. 128-132","50667","Köln","111835",,,,,,,"Deutschland",,"16","15","111840","111836","111834","-1","0","-1","118704"
+"163","1548081233","1548081251","0","Forever 18 Retail GmbH","91","Schlickgasse 3 Top 7","A-1090","Wien","111902",,,,,,,"Österreich",,"16","15","111904","111903","111900","-1","0","-1","-1"
+"164","1548666640","1548666664","0","Valle GmbH","99","TÜBINGER STRASSE, 43","70178","Stuttgart","112286",,,,,,,"Deutschland",,"16","15","-1","112287","112285","-1","0","-1","-1"
+"165","1550587675","1550587703","0","Hartfelder Spielzeug GmbH","100","Tibarg 41","22459","Hamburg","113390",,,,,,,"Deutschland",,"16","15","-1","113392","113389","-1","0","-1","-1"
+"166","1551952157","1580202724","0","Crocodille DE GmbH","101","Zimmerstr. 23","10969","Berlin","114571",,,,,,,,,"16","15","-1","114028","114026","-1","0","-1","-1"
+"168","1552482507","1552482528","0","R. Ludwig & R. Hoffmann GTbR","102","Scharfschwedtstr. 34","16540","Hohen Neuendorf","114627",,,,,,,,,"16","15","-1","-1","114626","-1","0","-1","-1"
+"169","1552482988","1608726922","0","HL Eins Bekleidung GmbH","102","Scharfschwedtstr. 34","16540","Hohen Neuendorf","114629",,,,,,,,,"16","15","-1","-1","114628","-1","0","-1","-1"
+"170","1552483027","1608726943","0","HL Eins Fashion GmbH","102","Scharfschwedtstr. 34","16540","Hohen Neuendorf","114631",,,,,,,,,"16","15","-1","-1","114630","-1","0","-1","-1"
+"171","1552483058","1552483065","0","Rene´s Fashion Eins GmbH","102","Scharfschwedtstr. 34, Widerspruch Anschreiben Betreff (Standard)","16540","Hohen Neuendorf","114633",,,,,,,,,"16","15","-1","-1","114632","-1","0","-1","-1"
+"172","1552483090","1552483097","0","Rene´s Fashion Zwei GmbH","102","Scharfschwedtstr. 34, Widerspruch Anschreiben Betreff (Standard)","16540","Hohen Neuendorf","114635",,,,,,,,,"16","15","-1","-1","114634","-1","0","-1","-1"
+"173","1552485196","1552485202","0","Doreen Weingärtner","103","Kurstraße 32/33","14776","Brandenburg","114637",,,,,,,,,"16","15","-1","-1","114636","-1","0","-1","-1"
+"174","1552919425","1564040499","0","Carvalho Schuh GmbH","88","Georg-Schendel-Str. 2","12489","Berlin","114852",,,,,,,"Deutschland",,"16","15","-1","-1","115694","-1","0","-1","120095"
+"175","1552919551","1606570728","0","Alfi Schuhhandels GmbH","88","Hasenmoor 6","21614","Buxtehude","126899",,,,,,,"Deutschland",,"16","15","116330","115693","126898","135128","0","135127","120094"
+"178","1554821135","1582034343","0","Big Deal Süd GmbH","105","Otto-Lilienthal-Str. 2","55232","Alzey","126903",,,,,,,"Deutschland",,"16","15","-1","116530","126902","-1","0","-1","-1"
+"177","1554722486","1554722519","0","Shoe4You GmbH & Co. KG","89","An der Autobahn 15","30900","Wedemark","116411",,,,,,,"Deutschalnd",,"16","15","116413","116412","116410","-1","0","-1","-1"
+"179","1554821782","1557993907","0","United Cinemas International Multiplex GmbH","106","Oskar-Hoffmann-Str. 156","44789","Bochum","116532",,,,,,,,,"16","15","-1","-1","116531","-1","0","-1","-1"
+"180","1554821818","1557993932","0","United Cinemas International Kinoplex GmbH","106","Oskar-Hoffmann-Str. 156","44789","Bochum","116534",,,,,,,,,"16","15","-1","-1","116533","-1","0","-1","-1"
+"181","1554821853","1554821859","0","United Cinemas International Novoplex GmbH","106","Oskar-Hoffmann-Str. 156","44789","Bochum","116536",,,,,,,,,"16","15","-1","-1","116535","-1","0","-1","-1"
+"182","1554821892","1554821899","0","United Cinemas International Lumoplex GmbH","106","Oskar-Hoffmann-Str. 156","44789","Bochum","116538",,,,,,,,,"16","15","-1","-1","116537","-1","0","-1","-1"
+"183","1555415626","1555415642","0","The Doorman Betriebsgesellschaft Welle Frankfurt mbH","107","Stephanstr. 1","60313","Frankfurt am Main","116902",,,,,,,"Deutschland",,"16","15","-1","116903","116901","-1","0","-1","-1"
+"184","1557733169","1602072928","0","United Internet Corporate Services GmbH","108","Hinterm Hauptbahnhof 3","76137","Karlsruhe","117779",,,,,,,"Deutschland",,"16","15","117781","117780","117778","117783","0","117782","-1"
+"185","1558516719","1582034267","0","Benchmark Fashion GmbH & Co. KG","109","Winkelsfelderstr. 16","40477","Düsseldorf","126901",,,,,,,"Deutschland",,"16","15","118219","118218","126900","118221","0","118220","-1"
+"186","1560871329","1560871363","0","Feneberg Lebensmittel GmbH","110","Ursulasrieder Str. 2","87437","Kempten","118948",,,,,,,"Deutschland",,"16","15","-1","118949","118947","-1","0","-1","-1"
+"187","1560871426","1560871433","0","Hans Dietz GmbH & Co. KG","110","Hartwasen 16","73252","Schopfloch","118951",,,,,,,,,"16","15","-1","-1","118950","-1","0","-1","-1"
+"188","1560871469","1560871480","0","Philipp Reiter GmbH","110","Ursulasrieder Str. 2","87437","Kempten","118953",,,,,,,,,"16","15","-1","-1","118952","-1","0","-1","-1"
+"189","1568723355","1568723663","0","Wolle Rödel GmbH & Co. KG","111","Bahnhofstr. 11","33102","Paderborn","121785",,,,,,,"Deutschland",,"16","15","121787","121786","121783","121789","0","121788","-1"
+"190","1571742728","1571742860","0","Nord FX Textil GmbH c/o Shop Superdry ","112","Einkauszentrum nova eventis","06237","Leuna OT Günthersdorf","122872",,,,,,,,,"16","15","-1","122873","122871","-1","0","-1","-1"
+"191","1573458627","1573458657","0","M.R.C.-ACM GmbH","49","Erlenweg 14","19336","Bad Wilsnack","123744",,,,,,,"Deutschland",,"16","15","-1","-1","123743","-1","0","-1","-1"
+"192","1573458718","1573458733","0","M.R.C. GmbH","49","Erlenweg 14","19336","Bad Wilsnack","123746",,,,,,,"Deutschland",,"16","15","-1","-1","123745","-1","0","-1","-1"
+"193","1573458762","1573458776","0","LSC GmbH","49","Erlenweg 14","19336","Bad Wilsnack","123748",,,,,,,"Deutschland",,"16","15","-1","-1","123747","-1","0","-1","-1"
+"194","1573458811","1573458829","0","LSC-BB GmbH","49","Erlenweg 14","19336","Bad Wilsnack","123750",,,,,,,"Deutschland",,"16","15","-1","-1","123749","-1","0","-1","-1"
+"195","1573458853","1573458872","0","TTB-Hbf GmbH","49","Erlenweg 14","19336","Bad Wilsnack","123752",,,,,,,"Deutschland",,"16","15","-1","-1","123751","-1","0","-1","-1"
+"196","1580204191","1580204249","0","Cordula-Grundstücksverwaltungsgesellschaft mbH & Co. OHG","113","Carl-Theodor-Str. 6","40213","Düsseldorf","-1",,,,,,,"Deutschland",,"16","15","-1","-1","-1","-1","0","-1","-1"
+"197","1582701782","1589361309","0","Barbara Benz Einrichten GmbH & Co. KG","114","Vordere Kernenstr. 2","72202","Nagold","129424","123","123",,,,,"Deutschland",,"16","15","127203","127202","129423","-1","0","-1","-1"
+"198","1585807631","1589361280","0","Ubald Hullin","115","Sigmaringerstr. 96","70567","Stuttgart","129421","1","1",,,,,"Deutschland",,"16","15","128495","129422","129420","128497","0","128496","-1"
+"199","1589532566","1589532650","0","Brekalo & Aibler Gastronomie Betriebs GesmbH","116","Wagramerstr. 79","AT-1220","Wien","129513",,,,,,,"Österreich",,"16","15","-1","-1","129512","-1","0","-1","-1"
+"200","1592400233","1611654430","0","TK Fashion Group GmbH","117","Bahnhofstr. 5","53721","Siegburg","136624","11","11","11","11",,,"Deutschland","11","16","15","130234","136625","136623","130236","0","130235","-1"
+"217","1610536846","1610536875","0","Christian Leitner Retail Group","129","Wiedner Gütel 12/IV","A-1040","Wien","136320",,,,,,,"Österreich",,"16","15","-1","-1","136319","-1","0","-1","-1"
+"201","1596438986","1634820891","0","Mustang Store GmbH","118","Austr. 10","74653","Künzelsau","143564",,,,,,,"Deutschland",,"16","15","-1","143565","143563","-1","0","-1","-1"
+"202","1596700768","1620735188","0","Gisy Schuhe GmbH & Co KG","119","Georgstr. 27","30159","Hannover","131555",,,,,,,"Deutschland",,"16","15","131557","131556","131554","131559","0","131558","-1"
+"203","1597395578","1597395612","0","Street Schuhhandels Gesellschaft mbH","89","An der Autobahn 15","30900","Wedemark","131814",,,,,,,"Deutschland",,"4","1","131817","131815","131813","131819","0","131818","-1"
+"204","1602666629","1602666823","0","Schuh-Heinrich GmbH & Co.KG","120","Alter Markt 12","24103","Kiel","133643",,,,,,,"Deutschland",,"4","1","133645","133644","133642","133647","0","133646","-1"
+"207","1603262445","1603262716","0","Printshop Sofortdruck und HandelsgmbH","122","Stationgasse 5","A-1010","Wien","133888",,,,,,,"Österreich",,"4","1","-1","-1","133887","-1","0","-1","-1"
+"206","1602682873","1602682928","0","RSM Textilhandels GmbH","121","Treppenstr. 8","34117 ","Kassel","133694",,,,,,,"Deutschland",,"4","1","133696","133695","133693","133698","0","133697","-1"
+"208","1604502702","1604502743","0","CL Austria Handels GmbH","55","Allee 225","2334","Vösendorf-Süd","134215",,,,,,,"Österreich",,"16","15","134217","134216","134214","134219","0","134218","-1"
+"209","1605799963","1605800001","0","H&G Handels GmbH","123","Industriestr. 3","3943","Schrems","134591",,,,,,,"Österreich",,"4","1","134593","134592","134590","134595","0","134594","-1"
+"210","1605869038","1605869341","0","Liberty Damenmoden GmbH","124","Siemensstr. 9","32312","Lübbecke","134616",,,,,,,"Deutschland",,"16","15","-1","-1","134614","-1","0","-1","-1"
+"211","1606223552","1606223630","0","Bonita GmbH","125","Kesseldorfer Rott 39","46499","Hamminkeln","134921",,,,,,,"Deutschland",,"16","15","-1","134923","134922","-1","0","-1","-1"
+"212","1606995281","1620735200","0","Schuhhaus Gränert-Gundlach GmbH & Co.KG","119","Mühlenkamp 33","22303","Hamburg","135341",,,,,,,"Deutschland",,"16","15","135343","135342","135340","135345","0","135344","-1"
+"213","1606995444","1620735218","0","Wilhelm Prange GmbH & Co.KG","119","Jungfernstieg 38","20354","Hamburg","135347",,,,,,,"Deutschland",,"16","15","135349","135348","135346","135351","0","135350","-1"
+"214","1607697936","1608292057","0","Josef Tretter GmbH & Co. KG","126","Ridlerstr. 15","80339","München","135826",,,,,,,"Deutschland",,"16","15","-1","-1","135824","-1","0","-1","-1"
+"215","1608288326","1615793917","0","Hartner GmbH","127","Am Kuhberg 6","A-3580","Frauenhofen","137746",,,,,,,"Österreich",,"4","1","137748","137747","137745","137750","0","137749","-1"
+"216","1608568075","1610615622","0","PKF WULF & PARTNER Partnerschaft mbB","128","Löffelstr. 44","70597","Stuttgart","136369",,,,,,,"Deutschland",,"4","1","135891","135890","136368","135893","0","135892","-1"
+"218","1611224399","1611224531","0","Shop Display UG","36","Haselweg 13","16348","Wandlitz","136506",,,,,,,"Deutschland",,"16","15","-1","136509","136505","-1","0","-1","-1"
+"219","1611651142","1611651209","0","Preußner Kommunikation & Design","130","Am Predigertor 1","79098","Freiburg","136606",,,,,,,"Deutschland",,"16","1","136608","136607","136605","136610","0","136609","-1"
+"220","1611740814","1634025805","0","AmRest Coffee Deutschland Sp.z.o.o. & Co. KG","131","Dachauer Str. 65","80335","München","143166",,,,,,,"Deutschland",,"16","15","143168","143167","143165","-1","0","-1","-1"
+"221","1613554594","1613554691","0","BETTY BARCLAY GROUP","132","Heidelberger Str. 9-11","69226","Nußloch","137243",,,,,,,"Deutschland",,"16","15","-1","-1","137242","-1","0","-1","-1"
+"222","1615538176","1615538223","0","S1 Dorsten GmbH","17","Untere Dorfstr. 141","57074","Siegen","137706",,,,,,,"Deutschland",,"4","1","137708","137707","137705","137710","0","137709","-1"
+"223","1616147565","1616147634","0","LS95 GmbH","133","Rodendamm 69","28816","Stuhr","137876",,,,,,,"Deutschland",,"16","15","-1","-1","137875","-1","0","-1","-1"
+"224","1616153230","1616153261","0","La Sciccosa Fashion 82 GmbH","134","Segefelder Str. 2","14624","Dallgow-Döberitz","137896",,,,,,,"Deutschland",,"16","15","-1","-1","137895","-1","0","-1","-1"
+"225","1617695762","1620126725","0","mobilcom-debitel Shop GmbH","135","Am Eichenring 1","16727","Oberkrämer","138826",,,,,,,"Deutschland",,"4","1","138823","138822","138820","138825","0","138824","-1"
+"226","1617695813","1617695813","0","Gravis-Computervetriebsgesellschaft mbH","135","Am Eichenring 1","16727","Oberkrämer","-1",,,,,,,"Deutschland",,"4","1","-1","-1","138147","-1","0","-1","-1"
+"227","1618222449","1618222592","0","Neuroth Hörcenter AG","136","Alpenstr. 15","CH-6300","Zug","138241",,,,,,,"Schweiz",,"4","1","138243","138242","138240","138245","0","138244","-1"
+"228","1618399317","1618399372","0","Notare Kuhn Jauch Gösner GbR","137","Tübinger Str. 26","70178","Stuttgart","138276",,,,,,,"Deutschland",,"16","15","-1","-1","138275","-1","0","-1","-1"
+"229","1619509481","1620735139","0","Schuhhaus Grüterich In. Paul-Michael u Günther Prange GmbH & Co. KG","119","Hindenburgstr. 106","41061","Mönchengladbach","138912",,,,,,,"Deutschland",,"16","15","138502","138913","138911","138504","0","138503","-1"
+"230","1619509907","1620735175","0","E. Juppen Nachf. Paul Prange GmbH & Co. KG","119","Schadowstr. 49/51","40212","Düsseldorf","138915",,,,,,,"Deutschland",,"16","15","138508","138916","138914","138510","0","138509","-1"
+"231","1620048290","1634026148","0","AmRest DE Sp.z.o.o. & Co. KG","131","Dachauer Str. 65","80335","München","143170",,,,,,,"Deutschland",,"16","15","-1","143171","143169","-1","0","-1","-1"
+"232","1620809521","1620809554","0","A3 Trading GmbH","138","Andrähofweg 54/2","AT 9061 ","Klagenfurt","138929",,,,,,,"Österreich",,"16","15","-1","-1","138928","-1","0","-1","-1"
+"233","1622621150","1622621193","0","JD Sports Fashion AT GmbH","98","Wallnerstraße 1, 3. Stock","AT-1010","Wien","139306",,,,,,,"Österreich",,"16","15","-1","-1","139304","-1","0","-1","-1"
+"234","1627541448","1628063054","0","Lidl Dienstleistung GmbH & Co. KG","139","Bonfelder Str. 2","74206","Bad Wimpfen","140896",,,,,,,"Deutschland",,"16","15","140624","140897","140895","140626","0","140625","-1"
+"235","1632298615","1632316830","0","K+K Shoe Market GmbH","89","An der Autobahn 15","30900","Wedemark","142106",,,,,,,"Deutschland",,"16","15","-1","142107","142105","-1","0","-1","-1"
+"236","1633614119","1636443630","0","Lidl Vertriebs-GmbH & Co. KG, Bremen","141","Lise-Meitner-Str. 1","28790","Schwanewede","144591",,,,,,,"Deutschland",,"4","1","-1","-1","144590","-1","0","-1","-1"
+"237","1633614283","1635955941","0","Lidl Vertriebs-GmbH & Co. KG, Bernburg","140","Claude-Breda-Str. 7","06406","Bernburg/Saale","144300",,,,,,,"Deutschland",,"4","1","-1","-1","144299","-1","0","-1","-1"
+"238","1633614332","1635955986","0","Lidl Vertriebs-GmbH & Co. KG, Cloppenburg","142","Brookweg 90","49661","Cloppenburg","144304",,,,,,,"Deutschland",,"4","1","-1","-1","144303","-1","0","-1","-1"
+"239","1634644907","1635955961","0","Lidl Vertriebs-GmbH & Co. KG, Siegen","143","Am Rübgarten 1","57299","Burbach","144302",,,,,,,"DE",,"16","15","143560","143559","144301","143562","0","143561","-1"
+"240","1634892495","1636099641","0","Lidl Vertriebs-GmbH & Co. KG, Grevenbroich","144","Lise-Meitner-Straße 4","41515","Grevenbroich","144391",,,,,,,,,"4","1","-1","-1","144390","-1","0","-1","-1"
+"241","1634900080","1636387123","0","reifencom GmbH","145","Südfeldstr. 16","30453 ","Hannover","144541",,,,,,,,,"4","1","-1","-1","144540","-1","0","-1","-1"
+"242","1635256120","1635256124","0","Helmut Stibor","146","Hauptplatz 1","8230","Hartberg","-1",,,,,,,"AT",,"4","1","-1","-1","-1","-1","0","-1","-1"
