@@ -7,6 +7,9 @@ import datetime
 import mysql.connector
 
 
+mydb = mysql.connector.connect(host="localhost", user="root", password="QhmMmplFIdFLzV7RHnLA", database="kim_pro")
+
+
 COUNTRIES = {
     "Deutschland": 50,
     "Österreich": 173,
@@ -496,7 +499,6 @@ def getAddressDesc(s):
 
 
 def contract_exporter():
-    mydb = mysql.connector.connect(host="localhost", user="root", password="12345678", database="kim_pro")
     mycursor = mydb.cursor()
 
     contract = {}
