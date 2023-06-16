@@ -7,7 +7,7 @@ import datetime
 import mysql.connector
 
 
-mydb = mysql.connector.connect(host="localhost", user="root", password="QhmMmplFIdFLzV7RHnLA", database="kim_pro")
+mydb = mysql.connector.connect(host="localhost", user="root", password="QhmMmplFIdFLzV7RHnLA", database="kim_pro", port=3306)
 
 
 COUNTRIES = {
